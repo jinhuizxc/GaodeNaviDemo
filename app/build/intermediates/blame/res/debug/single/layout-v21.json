@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\jinhui\\Desktop\\GaodeNaviDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "D:\\Android\\workspace\\.android\\build-cache\\d55835455e5934510357d37f90fa3a18d8a7c483\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\jinhui\\Desktop\\GaodeNaviDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "D:\\Android\\workspace\\.android\\build-cache\\d55835455e5934510357d37f90fa3a18d8a7c483\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\jinhui\\Desktop\\GaodeNaviDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "D:\\Android\\workspace\\.android\\build-cache\\d55835455e5934510357d37f90fa3a18d8a7c483\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\jinhui\\Desktop\\GaodeNaviDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "D:\\Android\\workspace\\.android\\build-cache\\d55835455e5934510357d37f90fa3a18d8a7c483\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]

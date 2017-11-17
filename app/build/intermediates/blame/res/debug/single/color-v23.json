@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\jinhui\\Desktop\\GaodeNaviDemo\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "D:\\Android\\workspace\\.android\\build-cache\\d55835455e5934510357d37f90fa3a18d8a7c483\\output\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jinhui\\Desktop\\GaodeNaviDemo\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "D:\\Android\\workspace\\.android\\build-cache\\d55835455e5934510357d37f90fa3a18d8a7c483\\output\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\jinhui\\Desktop\\GaodeNaviDemo\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "D:\\Android\\workspace\\.android\\build-cache\\d55835455e5934510357d37f90fa3a18d8a7c483\\output\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\jinhui\\Desktop\\GaodeNaviDemo\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "D:\\Android\\workspace\\.android\\build-cache\\d55835455e5934510357d37f90fa3a18d8a7c483\\output\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\jinhui\\Desktop\\GaodeNaviDemo\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "D:\\Android\\workspace\\.android\\build-cache\\d55835455e5934510357d37f90fa3a18d8a7c483\\output\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\jinhui\\Desktop\\GaodeNaviDemo\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "D:\\Android\\workspace\\.android\\build-cache\\d55835455e5934510357d37f90fa3a18d8a7c483\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jinhui\\Desktop\\GaodeNaviDemo\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "D:\\Android\\workspace\\.android\\build-cache\\d55835455e5934510357d37f90fa3a18d8a7c483\\output\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "C:\\Users\\jinhui\\Desktop\\GaodeNaviDemo\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
+        "source": "D:\\Android\\workspace\\.android\\build-cache\\d55835455e5934510357d37f90fa3a18d8a7c483\\output\\res\\color-v23\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\jinhui\\Desktop\\GaodeNaviDemo\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "D:\\Android\\workspace\\.android\\build-cache\\d55835455e5934510357d37f90fa3a18d8a7c483\\output\\res\\color-v23\\abc_tint_spinner.xml"
+    }
+]

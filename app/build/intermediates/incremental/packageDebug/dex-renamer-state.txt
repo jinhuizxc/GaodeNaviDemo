@@ -1,0 +1,7 @@
+#Fri Nov 17 22:10:51 CST 2017
+base.0=C\:\\Users\\jinhui\\Desktop\\GaodeNaviDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_94c28c0a9f8f159a83991719a0247061700710df
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\jinhui\\Desktop\\GaodeNaviDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9d8093f1078abe2bb570837321472f6f986eb89e\\classes.dex
+base.1=C\:\\Users\\jinhui\\Desktop\\GaodeNaviDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9d8093f1078abe2bb570837321472f6f986eb89e
+file.0=C\:\\Users\\jinhui\\Desktop\\GaodeNaviDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_94c28c0a9f8f159a83991719a0247061700710df\\classes.dex

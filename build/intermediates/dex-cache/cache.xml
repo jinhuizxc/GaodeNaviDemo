@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\jinhui\Desktop\GaodeNaviDemo\app\libs\Msc.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5b88f9b0f2ebaa459163f646654fbc1e45a34d4">
+        <dex dex="C:\Users\jinhui\Desktop\GaodeNaviDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\Msc_0e4831ed88ca788ee6764fb92be7af583cd7928b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jinhui\Desktop\GaodeNaviDemo\app\libs\AMap_Search_V5.5.0_20171107.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b7fc2c582458f3eddc00b4594510793e8f70935e">
+        <dex dex="C:\Users\jinhui\Desktop\GaodeNaviDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\AMap_Search_V5.5.0_20171107_e598bc3f8c694e7feef9067936ef6b416d671e4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jinhui\Desktop\GaodeNaviDemo\app\libs\AMap3DMap_5.5.0_AMapNavi_5.4.0_20171107.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a7689c06c365ff8855fac56e179b5ad0b343d20">
+        <dex dex="C:\Users\jinhui\Desktop\GaodeNaviDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\AMap3DMap_5.5.0_AMapNavi_5.4.0_20171107_18261698ddba4bbae6c24d6f65b121041c1a460b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jinhui\Desktop\GaodeNaviDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\jinhui\Desktop\GaodeNaviDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_94c28c0a9f8f159a83991719a0247061700710df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jinhui\Desktop\GaodeNaviDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ed3da04662eb982f9448a5053756891e44bbf1a">
+        <dex dex="C:\Users\jinhui\Desktop\GaodeNaviDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9d8093f1078abe2bb570837321472f6f986eb89e\classes.dex" />
+    </item>
+
+</items>

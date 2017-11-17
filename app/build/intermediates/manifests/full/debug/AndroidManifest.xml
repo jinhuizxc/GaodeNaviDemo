@@ -27,7 +27,7 @@
         android:theme="@android:style/Theme.Light" >
         <meta-data
             android:name="com.amap.api.v2.apikey"
-            android:value="您的key" />
+            android:value="695a27c304b062864a0a4fd8b5e4767d" />
 
         <activity
             android:name="com.amap.navi.demo.activity.IndexActivity"

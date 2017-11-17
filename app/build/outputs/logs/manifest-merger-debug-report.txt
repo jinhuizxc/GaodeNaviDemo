@@ -98,9 +98,9 @@ MERGED from [com.android.support:support-compat:25.0.1] D:\Android\workspace\.an
 	android:name
 		ADDED from C:\Users\jinhui\Desktop\GaodeNaviDemo\app\src\main\AndroidManifest.xml:23:9-30
 meta-data#com.amap.api.v2.apikey
-ADDED from C:\Users\jinhui\Desktop\GaodeNaviDemo\app\src\main\AndroidManifest.xml:28:9-30:37
+ADDED from C:\Users\jinhui\Desktop\GaodeNaviDemo\app\src\main\AndroidManifest.xml:28:9-30:64
 	android:value
-		ADDED from C:\Users\jinhui\Desktop\GaodeNaviDemo\app\src\main\AndroidManifest.xml:30:13-34
+		ADDED from C:\Users\jinhui\Desktop\GaodeNaviDemo\app\src\main\AndroidManifest.xml:30:13-61
 	android:name
 		ADDED from C:\Users\jinhui\Desktop\GaodeNaviDemo\app\src\main\AndroidManifest.xml:29:13-50
 activity#com.amap.navi.demo.activity.IndexActivity
